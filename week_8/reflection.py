@@ -1,0 +1,5 @@
+file = open('CS_1064/week_8/reflection.txt', 'w')
+file.write('Name: Collin Steele \n')
+file.write('The first ethical issue: The use of an AI to make serious decisions without human oversight, Ripley incorrectly identifies Will as a terrorist as he is not.\n')
+file.write('The second ethical issue: Another ethical issue in the movie is the invasion of privacy, the government secretly monitors peoples online activity, seen when Will is playing the game and the government tracks his gameplay.\n')
+file.close()
